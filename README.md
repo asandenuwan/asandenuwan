@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @asandenuwan
+- 👀 I’m interested in networing , machine learning , build custom os and make my own A.I.
+- 🌱 I’m currently learning c++ and python basic of M.L.
+- 📫 my E main is asan25denuwan2005@gmail.com
