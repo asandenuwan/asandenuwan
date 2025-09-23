@@ -2,3 +2,4 @@
 - 👀 I’m interested in networing , machine learning , build custom os and make my own A.I.
 - 🌱 I’m currently learning c++ and python basic of M.L.
 - 📫 my e-mail is asan25denuwan2005@gmail.com
+- 🍃 now i work on with flutter witch i try to make android application
