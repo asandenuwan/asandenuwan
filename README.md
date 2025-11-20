@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @asandenuwan
 - 👀 I’m interested in networing , machine learning , build custom os and make my own A.I.
 - 🌱 I’m currently learning c++ and python basic of M.L.
-- 📫 my e-mail is asan25denuwan2005@gmail.com
+- 📫 my e-mail is asan25denuwan2005@gmail.com and you can find me in linkedin and instagram
 - 🍃 now i work on with flutter witch i try to make android application
+- 👤 my linkedin account -> https://www.linkedin.com/in/asan-denuwan-09960a385
